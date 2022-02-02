@@ -1,0 +1,84 @@
+
+
+
+*{
+    padding:0;
+    margin: 0;
+    }
+
+
+body{
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    }
+  
+.background-img{
+    background-color: darkkhaki;
+    height: 900px;
+    width:80%;
+    margin: 0 auto; 
+}  
+
+.headerpart{
+    background-color: gray;
+    height: 80px;
+    width:80%;
+    margin: auto;
+    padding-top: 10px;
+}
+
+header h1{
+    color:black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   
+    font-weight: bold;
+    text-align: center;
+}
+
+.nav-iteams{
+    margin-top: 20px;
+    text-align: center;
+}
+
+nav  li {
+   display: inline;
+  padding: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  }
+
+
+a{
+    text-decoration: none;
+    color:black;
+    margin-top: 10px;
+    text-transform: capitalize;
+} 
+
+img{
+    height:500px;
+    width: 80%;
+    padding-top: 20px;
+    margin-left: 10%;
+    
+}
+.end-of-first{
+    padding:20px;
+    height: 20px;
+    width: 5%;
+    display:inline;
+   
+   
+}
+.end-of-first p{
+    color:blue;
+    font-size: small;
+    font-style: italic;
+    text-align: center;
+    
+    
+}
+
+
+  
